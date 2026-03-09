@@ -5,7 +5,7 @@ metadata:
   labels:
     app: zomato
 spec:
-  replicas: 5
+  replicas: 7
   selector:
     matchLabels:
       app: zomato
